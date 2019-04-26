@@ -9,5 +9,5 @@ I wanted to share the solution publicly because it was a problem I encountered i
 Password control](https://github.com/berat/form-validation-operations/blob/master/img/r2.jpg?raw=true)
 
 ***
-**You can browse the index.html file to examine the codes.* 
+**You can browse the index.html file to examine the codes.*  <br>
 **Translation into English was done with google translate. Sorry in advance :)*
